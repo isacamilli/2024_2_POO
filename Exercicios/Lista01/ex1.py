@@ -11,5 +11,5 @@ class cerchio :
         return circ
 
 a = cerchio()
-a.r = 3
+a.r = int(input("Informar valor do raio: ))
 print (a.area(), a.circunferencia())

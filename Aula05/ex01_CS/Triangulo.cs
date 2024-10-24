@@ -8,14 +8,14 @@ class Triangulo {
 
     public void set_base(double v) {
         if (v > 0) b = v;
-        else 
-            throw new ArgumentOutOfRangeException ("A base do triangulo não pode ser negativa");
+        // else 
+        //     throw new ArgumentOutOfRangeException ("A base do triangulo não pode ser negativa");
     }
 
     public void set_altura(double v) {
         if (v > 0) h = v;
-        else 
-            throw ArgumentOutOfRangeException ("A base do triangulo não pode ser negativa");
+        // else 
+        //     throw new ArgumentOutOfRangeException ("A base do triangulo não pode ser negativa");
     }
 
     public double get_base() {

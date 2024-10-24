@@ -11,8 +11,9 @@ namespace ex01_CS
             x.set_base (Console.ReadLine());
             Console.WriteLine ("Informe o valor da base do triângulo: ")
             x.set_altura (Console.ReadLine());
-            Console.WriteLine($"Base: {x.set_base}");
-            Console.WriteLine($"Base: {x.set_altura}");
+            Console.WriteLine($"Base: {x.get_base}");
+            Console.WriteLine($"Base: {x.get_altura}");
+            Console.WriteLine($"Área: {x.calc_area}");
         }
     }
 }

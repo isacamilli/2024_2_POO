@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\20241014040028\\Documents\\2024_2_POO\\Aula05\\ex01_CS\\ex01_CS.csproj": {}
+    "C:\\Users\\20241014040028\\Documents\\2024_2_POO\\Aula05\\ex01_cs\\ex01_CS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\20241014040028\\Documents\\2024_2_POO\\Aula05\\ex01_CS\\ex01_CS.csproj": {
+    "C:\\Users\\20241014040028\\Documents\\2024_2_POO\\Aula05\\ex01_cs\\ex01_CS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20241014040028\\Documents\\2024_2_POO\\Aula05\\ex01_CS\\ex01_CS.csproj",
+        "projectUniqueName": "C:\\Users\\20241014040028\\Documents\\2024_2_POO\\Aula05\\ex01_cs\\ex01_CS.csproj",
         "projectName": "ex01_CS",
-        "projectPath": "C:\\Users\\20241014040028\\Documents\\2024_2_POO\\Aula05\\ex01_CS\\ex01_CS.csproj",
+        "projectPath": "C:\\Users\\20241014040028\\Documents\\2024_2_POO\\Aula05\\ex01_cs\\ex01_CS.csproj",
         "packagesPath": "C:\\Users\\20241014040028\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20241014040028\\Documents\\2024_2_POO\\Aula05\\ex01_CS\\obj\\",
+        "outputPath": "C:\\Users\\20241014040028\\Documents\\2024_2_POO\\Aula05\\ex01_cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\20241014040028\\AppData\\Roaming\\NuGet\\NuGet.Config",

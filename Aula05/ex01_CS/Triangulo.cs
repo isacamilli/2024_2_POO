@@ -1,6 +1,7 @@
-class Tiangulo {
+class Triangulo {
+
     private double b, h;
-    public Triangulo ()
+    public Triangulo() {
         this.b = 0;
         this.h = 0;
     }
@@ -26,6 +27,7 @@ class Tiangulo {
     }
 
     public double calc_area() {
-        double area = b * h / 2
-        return area
+        double area = b * h / 2;
+        return area;
     }
+}    

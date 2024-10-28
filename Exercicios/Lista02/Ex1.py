@@ -28,15 +28,15 @@ class UI :
         
     @staticmethod
     def menu() :
-        print('Escolha quaquer numero além de 0 para continuar: ')
+        print('Digite 1 para continuar e 0 para terminar o programa: ')
         return int(input())
 
     @staticmethod
     def novo_circulo() :
         x = Cerchio()
         x.set_raio (float(input("Informe o valor do raio desejado:")))
-        print (f"Área = {x.calc_area()}")
-        print (f"Circunferência = {x.calc_circ()}")
+        print (f"Área = {x.calc_area():.2f}")
+        print (f"Circunferência = {x.calc_circ():.2f}")
 
 
 UI.main()

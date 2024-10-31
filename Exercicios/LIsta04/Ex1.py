@@ -19,12 +19,15 @@ class UI :
     def main() :
         op = 1
         jogo = None
+        contador = 0
+        sort = []
         while op == 1 :
             op = UI.menu()
             if op == 1 :
                 jogo = UI.novo_jogo()
             
-            
+            while contador != num_b :
+                randint
 
 
     @staticmethod

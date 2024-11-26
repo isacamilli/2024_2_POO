@@ -11,7 +11,7 @@ class Cliente:
         return f"{self.__id} - {self.__nome} - {self.__email} - {self.__num}"
     
     #@staticmethod
-    def get_id(self) :
+    def get_idClient(self) :
         return self.__id
     
     def get_nome(self):

@@ -23,4 +23,4 @@ class Venda:
     def get_total(self) :
         return self.__total
         
-    def
+    # def

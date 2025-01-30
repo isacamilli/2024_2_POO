@@ -2,18 +2,17 @@
 
 ## Sistema de assistência para vestuário
 
-### Histórico da Revisão 
+### Histórico da Revisão
 
 |  Data  | Versão | Descrição | Autor |
 |:-------|:-------|:----------|:------|
 | 28/01/2025 |  **`1.00`** | Versão Inicial  | Gustavo Tavares e Isabella Camilli |
 
-
-### 1. Objetivo do Projeto 
+### 1. Objetivo do Projeto
 
 O projeto **Cloud Wear** tem como objetivo fornecer uma solução eficiente e prática para a criação de combinações de roupas de acordo com a temperatura de um local selecionado.
 
-### 2. Descrição do Problema 
+### 2. Descrição do Problema
 
 |         __        | __   |
 |:------------------|:-----|
